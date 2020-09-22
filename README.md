@@ -1,0 +1,4 @@
+# Motion-Plan
+路径规划算法在ROS中的实现。
+
+这本身就是一个ROS工作空间，其中grid_path_searcher用于进行路径规划，rviz_plugins是用于可视化的插件，waypoint_generator用于生成障碍物信息。
